@@ -47,6 +47,7 @@
     }
   },
   "scripts": {
-    "pr-predestroy": "./bin/ra-org-delete.sh"
+    "pr-predestroy": "./bin/ra-org-delete.sh",
+    "test": "./bin/test.sh"
   }
 }
